@@ -1,4 +1,3 @@
-#Importing the Nominatim geocoder class 
 from geopy.geocoders import Nominatim
 import folium
 import pandas as pd
