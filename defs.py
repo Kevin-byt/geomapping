@@ -1,6 +1,7 @@
 import func
 
-File_name="data.xlsx"
+# File_name="data.xlsx"
+File_name="D:\Account\Dropbox\Dev\Projects\python\Geolocation\data.xlsx"
 Address_column = "Place of Residence City, State, Country"
 First_name_column = "First Name"
 Consideration_column = "If you are considered for a free travel voucher, which type would you prefer?" 
