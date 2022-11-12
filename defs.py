@@ -10,3 +10,9 @@ Consideration_column = "If you are considered for a free travel voucher, which t
 Map_center = [-0.0000000, 0.0000000]
 Map_zoom = 3
 # [-0.0000000, 0.0000000]
+
+#Database Logins
+host = "localhost"
+user="root"
+pwd="root"
+db="geolocation"
